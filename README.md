@@ -33,7 +33,7 @@ Users should be able to:
 
 ## Live Site
 
-👉 [View Live Site](https://)
+👉 [View Live Site](https://rifadhrijan.github.io/blog-preview-card/)
 
 ## My Process
 
